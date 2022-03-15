@@ -298,6 +298,10 @@ p {
     color: #fff;
 }
 
+.work {
+    background-color: #EEEEEE;
+}
+
 .work .content {
     display: flex;
     justify-content: center;
@@ -350,4 +354,11 @@ p {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 1em;
+}
+
+.contact {
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
